@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there!👋 I'm Nurkholiq 👨‍💻
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
+### ⚙️ Github Statistic
+<p align="left">
+<a href="https://github.com/nurkholiqaganihafid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurkholiqaganihafid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurkholiqaganihafid&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **nurkholiqaganihafid/nurkholiqaganihafid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
